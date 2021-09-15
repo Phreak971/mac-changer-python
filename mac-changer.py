@@ -1,7 +1,6 @@
 import subprocess
 import optparse
 import re
-from typing import cast
 
 def get_arguments():
     parser = optparse.OptionParser()
